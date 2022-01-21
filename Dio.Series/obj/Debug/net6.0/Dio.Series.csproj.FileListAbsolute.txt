@@ -1,0 +1,5 @@
+/home/giovanni/Documentos/Projetos/BaseCampJS/DotNet/Dio.Series/obj/Debug/net6.0/Dio.Series.csproj.AssemblyReference.cache
+/home/giovanni/Documentos/Projetos/BaseCampJS/DotNet/Dio.Series/obj/Debug/net6.0/Dio.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/giovanni/Documentos/Projetos/BaseCampJS/DotNet/Dio.Series/obj/Debug/net6.0/Dio.Series.AssemblyInfoInputs.cache
+/home/giovanni/Documentos/Projetos/BaseCampJS/DotNet/Dio.Series/obj/Debug/net6.0/Dio.Series.AssemblyInfo.cs
+/home/giovanni/Documentos/Projetos/BaseCampJS/DotNet/Dio.Series/obj/Debug/net6.0/Dio.Series.csproj.CoreCompileInputs.cache
